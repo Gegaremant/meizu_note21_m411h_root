@@ -1,0 +1,26 @@
+# Platform tools and archives
+platform-tools/
+platform-tools.zip
+*.zip
+*.rar
+*.7z
+
+# Local configuration
+.env
+.env.*
+
+# Exploit temporary files and dumps
+Unlock/*_new.bin
+Unlock/*.log
+Unlock/pgpt.bin
+Unlock/partition_*.xml
+Unlock/m.bin
+Unlock/Log/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.ipynb_checkpoints/

@@ -1,0 +1,11 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\usbflags\18D1D00D0100]
+"osvc"=hex:00,00
+"SkipContainerIdQuery"=hex:01,00,00,00
+"SkipBOSDescriptorQuery"=hex:01,00,00,00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\usbflags\18D14EE00100]
+"osvc"=hex:00,00
+"SkipContainerIdQuery"=hex:01,00,00,00
+"SkipBOSDescriptorQuery"=hex:01,00,00,00
