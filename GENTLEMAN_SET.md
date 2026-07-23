@@ -1,5 +1,7 @@
 # Gentleman's Root Set for Meizu Note 21 (Magisk)
 
+🌐 **[Русская версия](GENTLEMAN_SET_RU.md)** | 📖 **[Main Guide](README.md)** | 🛠️ **[Gentleman's Set](GENTLEMAN_SET.md)** | 🚀 **[Root Usage Guide](ROOT_USE_ENG.md)**
+
 Unlocking the bootloader and obtaining Root access on Android 14 (Flyme OS 14) opens up advanced customization. Below is a curated list of essential Magisk modules, Xposed tools, and root utilities to improve your system control, block ads system-wide, and hide root from sensitive apps like banking clients.
 
 ---

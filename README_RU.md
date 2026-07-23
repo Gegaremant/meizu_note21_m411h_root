@@ -1,6 +1,6 @@
 # Разблокировка загрузчика и установка Magisk Root на Meizu Note 21 (m411h)
 
-🌐 **[English version](README.md)** | 📱 **[Справочник Awesome Android Root](../root%20access%20using/README_RU.md)**
+🌐 **[English version](README.md)** | 📖 **[Основная инструкция](README_RU.md)** | 🛠️ **[Джентльменский набор](GENTLEMAN_SET_RU.md)** | 🚀 **[Использование Root](ROOT_USE_RU.md)**
 
 В этом репозитории собраны утилиты, скрипты и инструкции для разблокировки загрузчика и установки Magisk (Root) на смартфон **Meizu Note 21** (`m411h`, Unisoc T606, Android 14 / Flyme OS 14).
 

@@ -1,6 +1,6 @@
 # Meizu Note 21 (m411h) Bootloader Unlock & Magisk Root
 
-🌐 **[Русская версия](README_RU.md)** | 📱 **[Awesome Android Root Directory](../root%20access%20using/README.md)**
+🌐 **[Русская версия](README_RU.md)** | 📖 **[Main Guide](README.md)** | 🛠️ **[Gentleman's Set](GENTLEMAN_SET.md)** | 🚀 **[Root Usage Guide](ROOT_USE_ENG.md)**
 
 This repository contains tools, scripts, and instructions to unlock the bootloader and install Magisk (Root) on the **Meizu Note 21** (`m411h`, Unisoc T606, Android 14 / Flyme OS 14).
 
