@@ -1,5 +1,7 @@
 # Meizu Note 21 (m411h) Bootloader Unlock & Magisk Root
 
+🌐 **[Русская версия](README_RU.md)** | 📱 **[Awesome Android Root Directory](../root%20access%20using/README.md)**
+
 This repository contains tools, scripts, and instructions to unlock the bootloader and install Magisk (Root) on the **Meizu Note 21** (`m411h`, Unisoc T606, Android 14 / Flyme OS 14).
 
 This exploit uses the low-level Spreadtrum/Unisoc BootROM (BROM) mode interface to temporarily bypass boot integrity checks and write the unlock state directly to the `miscdata` partition. It then restores the stock signed bootloaders, leaving the device in a secure, fully unlocked state ready to flash custom partitions.
